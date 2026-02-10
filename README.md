@@ -15,14 +15,14 @@ This userscript automatically handles the certificate digital authentication pro
    - [Violentmonkey](https://violentmonkey.github.io/) (recommended)
    - [Tampermonkey](https://www.tampermonkey.net/)
    - [Greasemonkey](https://www.greasespot.net/)
-
+  
 2. Install the script:
-   - [Click here to install](https://github.com/AlfEspadero/userscripts/raw/main/scriptSSO.js)
+   - [Click here to install](https://greasyfork.org/en/scripts/532523-us-certificate-digital-auto-authentication)
    - Alternatively, go to your userscript manager's dashboard, create a new script, and copy the contents of scriptSSO.js
 
 ## Usage
 
-Just navigate to [https://sso.us.es/](https://sso.us.es/) and the script will automatically handle the authentication process.
+Just navigate to any page using the sso [https://sso.us.es/](https://sso.us.es/) and the script will automatically handle the authentication process.
 
 ## License
 
