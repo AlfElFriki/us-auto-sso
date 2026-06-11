@@ -5,7 +5,7 @@
 // @match       https://sso.us.es/*
 // @grant       none
 // @version     1.6
-// @author      AlfEspadero
+// @author      AlfElFriki
 // @description Automatically clicks on the "Certificado digital" authentication button on Universidad de Sevilla login page
 // @description:es Automaticamente clica en "Certificado digital" en la pagina de login de la Universidad de Sevilla
 // @run-at      document-end
